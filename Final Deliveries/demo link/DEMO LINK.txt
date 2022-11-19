@@ -1,0 +1,12 @@
+                    Statistical Machine Learning Approaches to Liver Disease Prediction
+
+
+        TEAM ID: PNT2022TMID01272
+        TEAM MEMBERS: DEEPTHI SHREE.S
+                      DEEPA.S
+                      HARITA.K.S
+                      KEERTHIKA.L
+        
+       DEMO LINK:
+         
+                 https://drive.google.com/drive/folders/1mTfBtW9atpdqcuwTFDafiNzuE2i4vgGl?usp=share_link
